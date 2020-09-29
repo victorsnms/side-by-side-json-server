@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "email": "filipe@mail.com",
+      "password": "$2a$10$eFmCPmPsaWpbymqbn5R/iOtIVLIhKi4kqvkZv2HYVQT7Z7IgpvXdO",
+      "name": "Filipe",
+      "age": 27,
+      "id": 1
+    },
+    {
+      "email": "luigi@mail.com",
+      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
+      "name": "Luigi",
+      "age": 35,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Geladeira ",
+      "userId": 1,
+      "price": 1500,
+      "category": "A",
+      "id": 2
+    },
+    {
+      "name": "Microondas ",
+      "userId": 1,
+      "price": 400,
+      "category": "A",
+      "id": 3
+    },
+    {
+      "name": "Sofá cama",
+      "userId": 2,
+      "price": 100,
+      "category": "D",
+      "id": 4
+    },
+    {
+      "name": "Sofa",
+      "userId": 2,
+      "price": 850,
+      "category": "C",
+      "id": 6
+    },
+    {
+      "name": "Celular",
+      "userId": 2,
+      "price": 900,
+      "category": "A",
+      "id": 10
+    },
+    {
+      "name": "Notebook",
+      "userId": 2,
+      "price": 2300,
+      "category": "A",
+      "id": 11
+    },
+    {
+      "name": "Impressora",
+      "userId": 2,
+      "price": 300,
+      "category": "A",
+      "id": 12
+    },
+    {
+      "name": "Impressora 3d",
+      "userId": 2,
+      "price": 300,
+      "category": "A",
+      "id": 13
+    },
+    {
+      "name": "PS4",
+      "userId": 1,
+      "price": 500,
+      "category": "A",
+      "id": 15
+    },
+    {
+      "name": "testando id",
+      "userId": 2,
+      "price": 60,
+      "category": "C",
+      "id": 16
+    }
+  ]
+}
