@@ -38,5 +38,29 @@
       "CoordX": "7822",
       "type": "Event"
     }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Cleaning the beach",
+      "address": "Street A",
+      "contact": "(33) 9999-9999",
+      "date": "11/12/2021",
+      "time": "22:00",
+      "description": "Let's clean the beach everybody",
+      "cover_url": "https://picsum.photos/200/200",
+      "participants_ids": [1, 2, 3]
+    }
+  ],
+  "wastecol": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "Collect Metal",
+      "address": "Street C",
+      "contact": "(33) 9999-9999",
+      "materials": ["Metal", "Plastic"]
+    }
   ]
 }
