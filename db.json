@@ -1,94 +1,24 @@
 {
   "users": [
     {
-      "email": "filipe@mail.com",
-      "password": "$2a$10$eFmCPmPsaWpbymqbn5R/iOtIVLIhKi4kqvkZv2HYVQT7Z7IgpvXdO",
-      "name": "Filipe",
-      "id": 1
-    },
-    {
-      "email": "luigi@mail.com",
-      "password": "$2a$10$DkGtHlfXpUmENSFTo.8M7uh.pwUCaUsHoyQ.HJ3ORmJ5gncjc.qe6",
-      "name": "Luigi",
-      "id": 2
-    },
-    {
       "email": "victor@gmail.com",
-      "password": "$2a$10$6xFepuGe2tSz67J2U2ogt.JJhQjpGNJNn.bueuUYa7Yt17NP7VNRC",
+      "password": "$2a$10$qJm2EwDgMHAijpt8kVYt4e15O2VcGTXCZqFKcXR4bHV39HRV.v3zq",
       "name": "victor",
-      "id": 3
-    }
-  ],
-  "products": [
-    {
-      "name": "Geladeira ",
-      "userId": 1,
-      "price": 1500,
-      "category": "A",
-      "id": 2
+      "id": 1,
+      "badges": [],
+      "events": [],
+      "places": [],
+      "experience": 0
     },
     {
-      "name": "Microondas ",
-      "userId": 1,
-      "price": 400,
-      "category": "A",
-      "id": 3
-    },
-    {
-      "name": "Sofá cama",
-      "userId": 2,
-      "price": 100,
-      "category": "D",
-      "id": 4
-    },
-    {
-      "name": "Sofa",
-      "userId": 2,
-      "price": 850,
-      "category": "C",
-      "id": 6
-    },
-    {
-      "name": "Celular",
-      "userId": 2,
-      "price": 900,
-      "category": "A",
-      "id": 10
-    },
-    {
-      "name": "Notebook",
-      "userId": 2,
-      "price": 2300,
-      "category": "A",
-      "id": 11
-    },
-    {
-      "name": "Impressora",
-      "userId": 2,
-      "price": 300,
-      "category": "A",
-      "id": 12
-    },
-    {
-      "name": "Impressora 3d",
-      "userId": 2,
-      "price": 300,
-      "category": "A",
-      "id": 13
-    },
-    {
-      "name": "PS4",
-      "userId": 1,
-      "price": 500,
-      "category": "A",
-      "id": 15
-    },
-    {
-      "name": "testando id",
-      "userId": 2,
-      "price": 60,
-      "category": "C",
-      "id": 16
+      "email": "john@gmail.com",
+      "password": "$2a$10$sQ0wEdLJJu0jDoSN7VALBOOZMGhHxly2E70WNrUtlRGJIQBFP0xb.",
+      "name": "john",
+      "id": 2,
+      "badges": [],
+      "events": [],
+      "places": [],
+      "experience": 100
     }
   ],
   "markers": [
