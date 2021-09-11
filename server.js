@@ -14,6 +14,8 @@ const rules = auth.rewriter({
   "/events*": "/640/events$1",
 });
 
+var cors = require("cors");
+app.use(cors());
 app.use(rules);
 app.use(auth);
 app.use(router);
