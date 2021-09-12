@@ -1,6 +1,6 @@
 {
   "users*": "/640/users$1",
-  "/markers*": "/640/markers$1",
+  "/markers*": "/660/markers$1",
   "/wastecol*": "/664/wastecol$1",
   "/events*": "/664/events$1"
 }

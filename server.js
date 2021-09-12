@@ -9,7 +9,7 @@ app.db = router.db;
 
 const rules = auth.rewriter({
   "/users*": "/640/users$1",
-  "/markers*": "/640/markers$1",
+  "/markers*": "/660/markers$1",
   "/wastecol*": "/640/wastecol$1",
   "/events*": "/640/events$1",
 });

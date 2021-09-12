@@ -5,38 +5,71 @@
       "password": "$2a$10$qJm2EwDgMHAijpt8kVYt4e15O2VcGTXCZqFKcXR4bHV39HRV.v3zq",
       "name": "victor",
       "id": 1,
+      "experience": 0,
+      "image_url": "https://picsum.photos/200",
       "badges": [],
-      "events": [],
-      "places": [],
-      "experience": 0
+      "my_events": [],
+      "places": []
     },
     {
       "email": "john@gmail.com",
       "password": "$2a$10$sQ0wEdLJJu0jDoSN7VALBOOZMGhHxly2E70WNrUtlRGJIQBFP0xb.",
       "name": "john",
       "id": 2,
-      "badges": [],
-      "events": [],
-      "places": [],
-      "experience": 100
+      "experience": 100,
+      "image_url": "https://picsum.photos/200",
+      "badges": ["Bagdge1", "Badge2"],
+      "my_events": [],
+      "places": []
     }
   ],
   "markers": [
     {
       "id": 1,
-      "userId": 3,
-      "title": "Ponto A",
-      "CoordY": "1213",
-      "CoordX": "7897",
-      "type": "WasteCollection"
+      "title": "Limpar a praia",
+      "lat": -25.41410596566802,
+      "lng": -49.28868879508972,
+      "start_time": "10:00",
+      "end_time": "17:00",
+      "type": "Event",
+      "created_at": "2021-09-12T13:07:11.631Z",
+      "address": "Rua da Praia, 204",
+      "contact": "(00)-0000-0000",
+      "materials_type": [],
+      "description": "Vamos limpar a praia galera",
+      "picture_url": "https://picsum.photos/200",
+      "participants": [],
+      "date": "22/11/2021"
     },
     {
       "id": 2,
-      "userId": 3,
-      "title": "Ponto B",
-      "CoordY": "4444",
-      "CoordX": "7822",
-      "type": "Event"
+      "title": "Farmácia X",
+      "lat": -25.414351799555913,
+      "lng": -49.24346097325786,
+      "start_time": "08:00",
+      "end_time": "13:00",
+      "type": "WasteCollection",
+      "created_at": "2021-09-12T13:10:45.546Z",
+      "address": "Rua da Maria José, 333",
+      "contact": "(11)-1111-1111",
+      "materials_type": ["Metal", "Plástico", "Vidro"]
+    },
+    {
+      "id": 3,
+      "title": "Catar lixo na Floresta Amazônica",
+      "lat": -25.431392761944345,
+      "lng": -49.268089429855344,
+      "start_time": "20:00",
+      "end_time": "00:00",
+      "type": "Event",
+      "created_at": "2021-09-12T13:15:40.801Z",
+      "address": "Parque Amazônico, 999",
+      "contact": "(77)-7777-7777",
+      "materials_type": [],
+      "description": "A floresta vai ficar limpinha",
+      "picture_url": "https://picsum.photos/200",
+      "participants": [],
+      "date": "25/12/2021"
     }
   ],
   "events": [
